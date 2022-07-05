@@ -5,6 +5,8 @@
         "iostream": "cpp",
         "string": "cpp",
         "ostream": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp"
     }
 }
